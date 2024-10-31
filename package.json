@@ -1,10 +1,10 @@
 {
-  "name": "nmaste_react",
+  "name": "food_app",
   "version": "1.0.0",
   "description": "this is react project",
   "scripts": {
-    "start":"parcel index.html",
-    "build":"parcel build index.html",
+    "start":"parcel public/index.html",
+    "build":"parcel build public/index.html",
     "test": "jest"
   },
   "repository": {
